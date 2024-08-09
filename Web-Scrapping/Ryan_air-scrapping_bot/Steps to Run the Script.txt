@@ -1,0 +1,6 @@
+Steps to Run the Script
+1. Download the zip file
+2. Unzip it in your desired folder
+3. Open the .py file in any ide of your liking
+4. Run the script 
+5. The script will create an csv file containing all the data 
