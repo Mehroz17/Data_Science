@@ -1,5 +1,0 @@
-Seleneum is an tool for automation of web pages
-
-Steps:
-1. first we have to download the driver for specific browser
-2. then selenium from pip
